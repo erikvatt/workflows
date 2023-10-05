@@ -8,4 +8,4 @@ with open("data/myfile.json", "r") as f:
 
 print("data: ", data)
 
-time.sleep(1000)
+#time.sleep(1000)
